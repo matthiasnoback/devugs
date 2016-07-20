@@ -37,6 +37,9 @@ NijmegenPHP
  
 AmsterdamPHP
 - 3e donderdag van de maand
+
+Symfony User Group NL
+- 4e donderdag van de maand
  
 PHP.FRL:
 - 1-na-laatste dinsdag van de maand
